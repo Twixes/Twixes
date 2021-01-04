@@ -1,1 +1,1 @@
-<a href="https://matloka.com/"><img alt="Michael Matloka in CMYK" src="https://github.com/Twixes/Twixes/raw/master/banner.png"/></a>
+<a href="https://matloka.com/"><img alt="Michael Matloka in CMYK" src="https://raw.githubusercontent.com/Twixes/Twixes/main/banner.png"/></a>
